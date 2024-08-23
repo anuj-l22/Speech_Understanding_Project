@@ -26,10 +26,17 @@ This repository includes implementations of various black-box adversarial attack
 
 - **Square Attack**: A score-based black-box attack that queries a target model with random square-shaped perturbations. For more details, see the implementation [here](https://github.com/max-andr/square-attack/blob/master/attack.py).
 
-## Usage
-
-Instructions on how to set up the environment, run the benchmarks, and evaluate the results will be provided here. (Add specific instructions if available).
-
 ## Citation
 
 If you find AudioMarkBench useful in your research or work, please consider citing:
+## Citation
+
+If you find AudioMarkBench helpful in your research, please consider citing:
+
+```bibtex
+@misc{AudioMarkBench2024,
+  author = {Your Name},
+  title = {AudioMarkBench: Benchmarking Robustness of Audio Watermarking},
+  year = {2024},
+  url = {https://github.com/your-repo-url}
+}
