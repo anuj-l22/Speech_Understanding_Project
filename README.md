@@ -4,7 +4,7 @@ Welcome to **AudioMarkBench**: Benchmarking Robustness of Audio Watermarking
 
 ## Overview
 
-AudioMarkBench is designed to provide a comprehensive evaluation of the robustness of various audio watermarking techniques against adversarial attacks. This repository includes datasets and code implementations that allow researchers and practitioners to benchmark the performance of different watermarking methods under various attack scenarios.
+AudioMarkBench is designed to provide a comprehensive evaluation of the robustness of various audio watermarking techniques against adversarial attacks. This repository includes datasets and code implementations that allow researchers to benchmark the performance of different watermarking methods under various attack scenarios.
 
 ## Features
 
@@ -20,7 +20,7 @@ To download the audio datasets used in this benchmark, please visit the followin
 
 ## Attack Implementations
 
-This repository includes implementations of various black-box adversarial attacks that can be used to test the robustness of audio watermarking systems:
+This repository includes implementations of various black-box adversarial attacks that can be used to test the robustness of audio watermarking methods:
 
 - **HopSkipJumpAttack**: A query-efficient attack based on geometric progression. For more details, check out the official implementation [here](https://github.com/Trusted-AI/adversarial-robustness-toolbox/blob/main/art/attacks/evasion/hop_skip_jump.py).
 
