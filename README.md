@@ -28,9 +28,6 @@ This repository includes implementations of various black-box adversarial attack
 
 ## Citation
 
-If you find AudioMarkBench useful in your research or work, please consider citing:
-## Citation
-
 If you find AudioMarkBench helpful in your research, please consider citing:
 
 ```bibtex
