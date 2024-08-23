@@ -34,9 +34,9 @@ If you find AudioMarkBench useful in your research or work, please consider citi
 If you find AudioMarkBench helpful in your research, please consider citing:
 
 ```bibtex
-@misc{AudioMarkBench2024,
-  author = {Your Name},
-  title = {AudioMarkBench: Benchmarking Robustness of Audio Watermarking},
-  year = {2024},
-  url = {https://github.com/your-repo-url}
+@article{liu2024audiomarkbenchbenchmarkingrobustnessaudio,
+  title={AudioMarkBench: Benchmarking Robustness of Audio Watermarking},
+  author={Hongbin Liu and Moyang Guo and Zhengyuan Jiang and Lun Wang and Neil Zhenqiang Gong},
+  journal={arXiv preprint arXiv:2406.06979},
+  year={2024}
 }
