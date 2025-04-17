@@ -9,6 +9,8 @@ python extractor.py
 ```
 
 This will create two folders : train folder and test folder
+
+
 train folder will contain 800 samples
 test folder will conatin 200 samples
 
